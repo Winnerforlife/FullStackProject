@@ -270,15 +270,190 @@
       "name": "7a331f795dd35e3c96d2.hot-update.json",
       "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\7a331f795dd35e3c96d2.hot-update.json",
       "publicPath": "http://127.0.0.1:8080/7a331f795dd35e3c96d2.hot-update.json"
+    },
+    "app.b8561c21d7f86b9f4212.hot-update.js": {
+      "name": "app.b8561c21d7f86b9f4212.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.b8561c21d7f86b9f4212.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.b8561c21d7f86b9f4212.hot-update.js"
+    },
+    "b8561c21d7f86b9f4212.hot-update.json": {
+      "name": "b8561c21d7f86b9f4212.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\b8561c21d7f86b9f4212.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/b8561c21d7f86b9f4212.hot-update.json"
+    },
+    "app.4e79f44097c2202a4218.hot-update.js": {
+      "name": "app.4e79f44097c2202a4218.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.4e79f44097c2202a4218.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.4e79f44097c2202a4218.hot-update.js"
+    },
+    "4e79f44097c2202a4218.hot-update.json": {
+      "name": "4e79f44097c2202a4218.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\4e79f44097c2202a4218.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/4e79f44097c2202a4218.hot-update.json"
+    },
+    "app.01f48d1b0c8487d5ac3b.hot-update.js": {
+      "name": "app.01f48d1b0c8487d5ac3b.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.01f48d1b0c8487d5ac3b.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.01f48d1b0c8487d5ac3b.hot-update.js"
+    },
+    "01f48d1b0c8487d5ac3b.hot-update.json": {
+      "name": "01f48d1b0c8487d5ac3b.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\01f48d1b0c8487d5ac3b.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/01f48d1b0c8487d5ac3b.hot-update.json"
+    },
+    "app.b6f7f69578b39bf65fdf.hot-update.js": {
+      "name": "app.b6f7f69578b39bf65fdf.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.b6f7f69578b39bf65fdf.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.b6f7f69578b39bf65fdf.hot-update.js"
+    },
+    "b6f7f69578b39bf65fdf.hot-update.json": {
+      "name": "b6f7f69578b39bf65fdf.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\b6f7f69578b39bf65fdf.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/b6f7f69578b39bf65fdf.hot-update.json"
+    },
+    "e9f661ed69fe22cd3007.hot-update.json": {
+      "name": "e9f661ed69fe22cd3007.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\e9f661ed69fe22cd3007.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/e9f661ed69fe22cd3007.hot-update.json"
+    },
+    "app.6305cb2f037e6ab963a9.hot-update.js": {
+      "name": "app.6305cb2f037e6ab963a9.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.6305cb2f037e6ab963a9.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.6305cb2f037e6ab963a9.hot-update.js"
+    },
+    "6305cb2f037e6ab963a9.hot-update.json": {
+      "name": "6305cb2f037e6ab963a9.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\6305cb2f037e6ab963a9.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/6305cb2f037e6ab963a9.hot-update.json"
+    },
+    "app.ab2ffe5c8d643a4d90ec.hot-update.js": {
+      "name": "app.ab2ffe5c8d643a4d90ec.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.ab2ffe5c8d643a4d90ec.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.ab2ffe5c8d643a4d90ec.hot-update.js"
+    },
+    "ab2ffe5c8d643a4d90ec.hot-update.json": {
+      "name": "ab2ffe5c8d643a4d90ec.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\ab2ffe5c8d643a4d90ec.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/ab2ffe5c8d643a4d90ec.hot-update.json"
+    },
+    "app.cf8b3e49138c5b6e96bb.hot-update.js": {
+      "name": "app.cf8b3e49138c5b6e96bb.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.cf8b3e49138c5b6e96bb.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.cf8b3e49138c5b6e96bb.hot-update.js"
+    },
+    "cf8b3e49138c5b6e96bb.hot-update.json": {
+      "name": "cf8b3e49138c5b6e96bb.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\cf8b3e49138c5b6e96bb.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/cf8b3e49138c5b6e96bb.hot-update.json"
+    },
+    "app.e011aa916fcb4ccb509d.hot-update.js": {
+      "name": "app.e011aa916fcb4ccb509d.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.e011aa916fcb4ccb509d.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.e011aa916fcb4ccb509d.hot-update.js"
+    },
+    "e011aa916fcb4ccb509d.hot-update.json": {
+      "name": "e011aa916fcb4ccb509d.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\e011aa916fcb4ccb509d.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/e011aa916fcb4ccb509d.hot-update.json"
+    },
+    "app.b4389926637b8ce9659a.hot-update.js": {
+      "name": "app.b4389926637b8ce9659a.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.b4389926637b8ce9659a.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.b4389926637b8ce9659a.hot-update.js"
+    },
+    "b4389926637b8ce9659a.hot-update.json": {
+      "name": "b4389926637b8ce9659a.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\b4389926637b8ce9659a.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/b4389926637b8ce9659a.hot-update.json"
+    },
+    "app.45c6f2f8bc81de94cd8a.hot-update.js": {
+      "name": "app.45c6f2f8bc81de94cd8a.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.45c6f2f8bc81de94cd8a.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.45c6f2f8bc81de94cd8a.hot-update.js"
+    },
+    "45c6f2f8bc81de94cd8a.hot-update.json": {
+      "name": "45c6f2f8bc81de94cd8a.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\45c6f2f8bc81de94cd8a.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/45c6f2f8bc81de94cd8a.hot-update.json"
+    },
+    "app.c4a19f4b0d122389190b.hot-update.js": {
+      "name": "app.c4a19f4b0d122389190b.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.c4a19f4b0d122389190b.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.c4a19f4b0d122389190b.hot-update.js"
+    },
+    "c4a19f4b0d122389190b.hot-update.json": {
+      "name": "c4a19f4b0d122389190b.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\c4a19f4b0d122389190b.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/c4a19f4b0d122389190b.hot-update.json"
+    },
+    "app.2c76fc132d7e157ac0df.hot-update.js": {
+      "name": "app.2c76fc132d7e157ac0df.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.2c76fc132d7e157ac0df.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.2c76fc132d7e157ac0df.hot-update.js"
+    },
+    "2c76fc132d7e157ac0df.hot-update.json": {
+      "name": "2c76fc132d7e157ac0df.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\2c76fc132d7e157ac0df.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/2c76fc132d7e157ac0df.hot-update.json"
+    },
+    "app.a60bcc578f19a55781e9.hot-update.js": {
+      "name": "app.a60bcc578f19a55781e9.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.a60bcc578f19a55781e9.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.a60bcc578f19a55781e9.hot-update.js"
+    },
+    "a60bcc578f19a55781e9.hot-update.json": {
+      "name": "a60bcc578f19a55781e9.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\a60bcc578f19a55781e9.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/a60bcc578f19a55781e9.hot-update.json"
+    },
+    "app.0f11896894501caf4a16.hot-update.js": {
+      "name": "app.0f11896894501caf4a16.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.0f11896894501caf4a16.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.0f11896894501caf4a16.hot-update.js"
+    },
+    "0f11896894501caf4a16.hot-update.json": {
+      "name": "0f11896894501caf4a16.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\0f11896894501caf4a16.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/0f11896894501caf4a16.hot-update.json"
+    },
+    "app.cd08b1d668af6e2c60dd.hot-update.js": {
+      "name": "app.cd08b1d668af6e2c60dd.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.cd08b1d668af6e2c60dd.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.cd08b1d668af6e2c60dd.hot-update.js"
+    },
+    "cd08b1d668af6e2c60dd.hot-update.json": {
+      "name": "cd08b1d668af6e2c60dd.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\cd08b1d668af6e2c60dd.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/cd08b1d668af6e2c60dd.hot-update.json"
+    },
+    "app.c69322accd445391f20e.hot-update.js": {
+      "name": "app.c69322accd445391f20e.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.c69322accd445391f20e.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.c69322accd445391f20e.hot-update.js"
+    },
+    "c69322accd445391f20e.hot-update.json": {
+      "name": "c69322accd445391f20e.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\c69322accd445391f20e.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/c69322accd445391f20e.hot-update.json"
+    },
+    "app.de8dd301c5f36ce4fea4.hot-update.js": {
+      "name": "app.de8dd301c5f36ce4fea4.hot-update.js",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\app.de8dd301c5f36ce4fea4.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.de8dd301c5f36ce4fea4.hot-update.js"
+    },
+    "de8dd301c5f36ce4fea4.hot-update.json": {
+      "name": "de8dd301c5f36ce4fea4.hot-update.json",
+      "path": "D:\\Projects\\FullStackBlog\\frontend\\dist\\de8dd301c5f36ce4fea4.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/de8dd301c5f36ce4fea4.hot-update.json"
     }
   },
   "chunks": {
     "app": [
       "bundle.js",
-      "app.7a331f795dd35e3c96d2.hot-update.js"
+      "app.de8dd301c5f36ce4fea4.hot-update.js"
     ]
   },
   "publicPath": "http://127.0.0.1:8080/",
   "error": "ModuleError",
-  "message": "Module Error (from ./node_modules/eslint-loader/index.js):\n\nD:\\Projects\\FullStackBlog\\frontend\\src\\components\\Home.vue\n  28:9  error  'articles' is not defined  no-undef\n\n✖ 1 problem (1 error, 0 warnings)\n"
+  "message": "Module Error (from ./node_modules/eslint-loader/index.js):\n\nD:\\Projects\\FullStackBlog\\frontend\\src\\components\\ArticleDetails.vue\n  21:26  error  'csrftoken' is not defined  no-undef\n\n✖ 1 problem (1 error, 0 warnings)\n"
 }

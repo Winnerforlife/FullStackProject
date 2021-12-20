@@ -7,8 +7,15 @@
           {{ article.author }}
         </span>
       </p>
-      <h3>{{ article.title }}</h3>
-      <hr>
+      <h3>
+        <router-link
+          class="link-style"
+          :to="{ name: 'details', params: { slug: article.slug } }"
+        >
+          {{ article.title }}
+        </router-link>
+      </h3>
+      <hr />
     </div>
   </div>
 </template>
@@ -33,7 +40,6 @@ export default {
         .then((response) => response.json())
         .then((data) => {
           this.articles.push(...data);
-          // console.log(data)
         })
         .catch((error) => console.log(error));
     },
@@ -45,4 +51,14 @@ export default {
 </script>
 
 <style>
+.link-style {
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
+
+.link-style:hover {
+  text-decoration: none;
+  color: gray;
+}
 </style>
