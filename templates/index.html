@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+<!-- import render bundle from webpack -->
+{% load render_bundle from webpack_loader %} 
+
+{% block content %}
+
+<div id="app">
+    {% render_bundle 'app' %}
+</div> 
+<!-- inject/mount the vue app using render_bundle -->
+
+
+{% endblock %}
