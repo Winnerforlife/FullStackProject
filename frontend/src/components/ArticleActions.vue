@@ -6,7 +6,7 @@
     >
       Update
     </router-link>
-    <button class="btn btn-danger" @click="deleteArticle">Delete</button>
+    <button class="btn btn-danger mt-4" @click="deleteArticle">Delete</button>
   </div>
 </template>
 
