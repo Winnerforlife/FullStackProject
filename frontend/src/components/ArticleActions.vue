@@ -12,7 +12,6 @@
 
 <script>
 import { csrftoken } from "../csrf/csrf_token.js";
-
 export default {
   props: {
     slug: {
