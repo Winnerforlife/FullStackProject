@@ -16,11 +16,11 @@
         v-model="body"
       >
       </textarea>
-      <button class="btn btn-success mt-4">Publish Article</button>
+      <button class="btn-9">Publish Article</button>
     </form>
     <div
       v-if="error"
-      class="alert alert-warning alert-dismissible fade show mt-5"
+      class="alert"
       role="alert"
     >
       <strong>{{ error }}</strong>
@@ -65,4 +65,12 @@ export default {
 </script>
 
 <style>
+  .container input{
+    margin-top: 50px;
+    box-shadow: 1px 1px 2rem rgba(0, 0, 0, 0.3);
+  }
+  .container textarea{
+    box-shadow: 1px 1px 2rem rgba(0, 0, 0, 0.3);
+    margin-bottom: 50px;
+  }
 </style>

@@ -111,11 +111,10 @@ TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
-USE_L10N = False
+USE_L10N = True
 
 USE_TZ = True
 
-# DATE_FORMAT = "Y-m-d"
 
 LOGIN_URL = 'accounts/login/'
 LOGIN_REDIRECT_URL = '/'
@@ -149,7 +148,8 @@ REST_FRAMEWORK = {
     ],
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.IsAuthenticated',
-    ]
+    ],
+    'DATETIME_FORMAT': "%d %B %Y", 
 }
 
 WEBPACK_LOADER = {

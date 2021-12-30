@@ -52,13 +52,13 @@ a {
 }
 
 .home:hover {
-  background-color: rgb(91, 222, 255);
+  background: linear-gradient(90deg, #ffffff, #d7cefd);
 }
 .create:hover {
-  background-color: rgb(74, 255, 89);
+  background: linear-gradient(90deg, #ffffff, #9affab);
 }
 .logout:hover {
-  background-color: rgb(255, 81, 81);
+  background: linear-gradient(90deg, #ffffff, #ff9595);
 }
 
 .button:active {
@@ -72,5 +72,4 @@ a {
     padding: 0 25px;
   }
 }
-
 </style>

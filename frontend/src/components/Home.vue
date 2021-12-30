@@ -21,6 +21,7 @@
       <div class="blog_post">
         <h2>{{ article.created_at }}</h2>
         <h1>{{ article.title }}</h1>
+        <h5> Author: <span class="badge bg-primary">{{ article.author }}</span></h5>
         <div class="wrapper-button">
           <a class="btn_primary">
             <router-link
@@ -81,8 +82,8 @@ export default {
   margin: 10px 5px;
   /* padding: 6rem 6rem 6rem 6rem; */
   background: #fff;
-  width: 400px;
-  height: 400px;
+  width: 508px;
+  height: 355px;
   border-radius: 10px;
   box-shadow: 1px 1px 2rem rgba(0, 0, 0, 0.3);
 }
@@ -98,7 +99,7 @@ export default {
 
 .blog_post h1 {
   position: absolute;
-  top: 25%;
+  top: 20%;
   width: 80%;
   margin: auto 10%;
   /* margin: 0 0 2rem 0; */
@@ -107,32 +108,37 @@ export default {
   color: #333;
 }
 
-/* .blog_post p {
-  margin: 0 0 4.5rem 0;
+.blog_post h5 {
+  position: absolute;
+  top: 80%;
+  margin-left: 260px;
   font-size: 1.5rem;
   color: #333;
-} */
+}
 
 .wrapper-button {
   position: absolute;
   top: 80%;
-  margin: 0 120px;
+  margin: 0px 120px 0px 50px;
 }
+
+.wrapper-button a {
+  color: white;
+}
+
 
 .btn_primary {
   border: none;
   outline: none;
-  background: linear-gradient(90deg, #ff9966, #ff5e62);
-  padding: 1.5rem 2rem;
+  background: linear-gradient(90deg, #227aa7, #085d68);
+  padding: 1rem 1rem;
   border-radius: 50px;
-  color: white;
   font-size: 1.2rem;
-  box-shadow: 1px 10px 2rem rgba(255, 94, 98, 0.5);
+  box-shadow: 1px 5px 10px #042738;
   transition: all 0.2s ease-in;
-  text-decoration: none;
 }
 
 .btn_primary:hover {
-  box-shadow: 0px 5px 1rem rgba(255, 94, 98, 0.5);
+  box-shadow: 0px 3px 0.5rem #042738;
 }
 </style>

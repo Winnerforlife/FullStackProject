@@ -16,11 +16,11 @@
         v-model="body"
       >
       </textarea>
-      <button class="btn btn-success mt-4">Update Article</button>
+      <button class="btn-9 upd">Update Article</button>
     </form>
     <div
       v-if="error"
-      class="alert alert-warning alert-dismissible fade show mt-5"
+      class="alert"
       role="alert"
     >
       <strong>{{ error }}</strong>
@@ -90,4 +90,7 @@ export default {
 </script>
 
 <style>
+.container .upd{
+  background: green;
+}
 </style>

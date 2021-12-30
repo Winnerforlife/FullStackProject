@@ -2,11 +2,11 @@
   <div class="container">
     <router-link
       :to="{ name: 'articleedit', params: { slug: slug } }"
-      class="btn btn-success mt-4"
+      class="btn-9 update"
     >
       Update
     </router-link>
-    <button class="btn btn-danger mt-4" @click="deleteArticle">Delete</button>
+    <button class="btn-9 delete" @click="deleteArticle">Delete</button>
   </div>
 </template>
 
@@ -38,4 +38,14 @@ export default {
 </script>
 
 <style>
+.container .btn-9{
+  color: white;
+  margin: 25px 30px;
+}
+.container .update{
+  background: green;
+}
+.container .delete{
+  background: red;
+}
 </style>
