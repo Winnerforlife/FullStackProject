@@ -1,27 +1,12 @@
 <template>
-  <!-- <div class="container mt-4">
-    <div v-for="article in articles" :key="article.pk">
-      <p class="mb-0">
-        Author:
-        <span class="badge bg-primary">
-          {{ article.author }}
-        </span>
-      </p>
-      <h3>
-        <router-link
-          class="link-style" :to="{ name: 'details', params: { slug: article.slug } }">
-          {{ article.title }}
-        </router-link>
-      </h3>
-      <hr />
-    </div>
-  </div> -->
   <div class="wrapper">
     <div class="temp" v-for="article in articles" :key="article.pk">
       <div class="blog_post">
         <h2>{{ article.created_at }}</h2>
         <h1>{{ article.title }}</h1>
-        <h5> Author: <span class="badge bg-primary">{{ article.author }}</span></h5>
+        <h5>
+          Author: <span class="badge bg-primary">{{ article.author }}</span>
+        </h5>
         <div class="wrapper-button">
           <a class="btn_primary">
             <router-link
@@ -125,7 +110,6 @@ export default {
 .wrapper-button a {
   color: white;
 }
-
 
 .btn_primary {
   border: none;

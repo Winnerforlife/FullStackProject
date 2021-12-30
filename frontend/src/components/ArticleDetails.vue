@@ -55,7 +55,7 @@ export default {
   },
   computed: {
     IsAuthor() {
-      return this.article.author === this.requestUser;
+      return this.article.author === this.requestUser || this.requestUser === 'admin';
     },
   },
 
