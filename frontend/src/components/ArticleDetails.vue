@@ -71,7 +71,6 @@ export default {
   background-color: white;
   width: 100%;
 	max-width: 700px;
-	/* font-family: sans-serif; */
 	padding: 0 0 1vw 0;
 	box-shadow: 0 0 300px black;
 }
@@ -84,7 +83,6 @@ export default {
 #app p {
 	line-height: 1.5rem;
 	padding: 0 1.5rem;
-	/* font-family: "Noticia Text", serif; */
   text-align: left;
   margin: 0.25rem 0;
   column-span: all;

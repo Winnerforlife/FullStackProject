@@ -65,7 +65,6 @@ export default {
 
 .blog_post {
   margin: 10px 5px;
-  /* padding: 6rem 6rem 6rem 6rem; */
   background: #fff;
   width: 508px;
   height: 355px;
@@ -87,7 +86,6 @@ export default {
   top: 20%;
   width: 80%;
   margin: auto 10%;
-  /* margin: 0 0 2rem 0; */
   font-size: 2.5rem;
   letter-spacing: 0.5px;
   color: #333;
