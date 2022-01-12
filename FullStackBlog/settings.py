@@ -128,6 +128,12 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 STATIC_URL = '/static/'
 
+# Enable this so that WhiteNoise will serve 'index.html' files at the directory root
+WHITENOISE_INDEX_FILE = True
+
+# Set this to wherever npm puts your final files
+WHITENOISE_ROOT = os.path.join(BASE_DIR, 'dist')
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
@@ -162,7 +168,3 @@ WEBPACK_LOADER = {
         # 'STATS_FILE': os.path.join(BASE_DIR, '../frontend', 'webpack-stats.json'),
     }
 }
-
-WHITENOISE_INDEX_FILE = True
-
-WHITENOISE_ROOT = os.path.join(BASE_DIR, 'dist')
