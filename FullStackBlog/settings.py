@@ -162,3 +162,7 @@ WEBPACK_LOADER = {
         # 'STATS_FILE': os.path.join(BASE_DIR, '../frontend', 'webpack-stats.json'),
     }
 }
+
+WHITENOISE_INDEX_FILE = True
+
+WHITENOISE_ROOT = os.path.join(BASE_DIR, 'dist')
