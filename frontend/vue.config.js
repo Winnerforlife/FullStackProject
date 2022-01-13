@@ -1,7 +1,7 @@
 const BundleTracker = require("webpack-bundle-tracker");
 
 module.exports = {
-    publicPath: "http://127.0.0.1:8080", //windows
+    publicPath: "https://fullstack-blog-ars.herokuapp.com/", //windows
     //publicPath: "http://0.0.0.0:8080/", //linux
     outputDir: './dist/',
 
