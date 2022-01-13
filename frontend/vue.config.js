@@ -1,7 +1,7 @@
 const BundleTracker = require("webpack-bundle-tracker");
 
 module.exports = {
-    publicPath: "https://fullstack-blog-ars.herokuapp.com/", //windows
+    publicPath: "http://127.0.0.1:8080", //windows
     //publicPath: "http://0.0.0.0:8080/", //linux
     outputDir: './dist/',
 
@@ -22,8 +22,8 @@ module.exports = {
 
         config.devServer
             // the first 3 lines of the following code have been added to the configuration
-            .public('https://fullstack-blog-ars.herokuapp.com/')    
-            .host('fullstack-blog-ars.herokuapp.com')    
+            .public('http://127.0.0.1:8080')    
+            .host('127.0.0.1')    
             .port(8080)
             .hotOnly(true)
             .watchOptions({poll: 1000})
