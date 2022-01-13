@@ -1,20 +1,10 @@
 {
   "status": "done",
   "assets": {
-    "css/app.4ba7e6df.css": {
-      "name": "css/app.4ba7e6df.css",
-      "path": "D:\\Projects\\FullStackProject\\frontend\\dist\\css\\app.4ba7e6df.css",
-      "publicPath": "http://127.0.0.1:8080/css/app.4ba7e6df.css"
-    },
     "bundle.js": {
       "name": "bundle.js",
       "path": "D:\\Projects\\FullStackProject\\frontend\\dist\\bundle.js",
       "publicPath": "http://127.0.0.1:8080/bundle.js"
-    },
-    "bundle.js.map": {
-      "name": "bundle.js.map",
-      "path": "D:\\Projects\\FullStackProject\\frontend\\dist\\bundle.js.map",
-      "publicPath": "http://127.0.0.1:8080/bundle.js.map"
     },
     "index.html": {
       "name": "index.html",
@@ -29,10 +19,7 @@
   },
   "chunks": {
     "app": [
-      "css/app.4ba7e6df.css",
-      "bundle.js",
-      "css/app.4ba7e6df.css.map",
-      "bundle.js.map"
+      "bundle.js"
     ]
   },
   "publicPath": "http://127.0.0.1:8080/"
