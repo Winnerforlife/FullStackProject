@@ -1,26 +1,39 @@
 {
   "status": "done",
   "assets": {
+    "css/app.4ba7e6df.css": {
+      "name": "css/app.4ba7e6df.css",
+      "path": "D:\\Projects\\FullStackProject\\frontend\\dist\\css\\app.4ba7e6df.css",
+      "publicPath": "https://fullstack-blog-ars.herokuapp.com/css/app.4ba7e6df.css"
+    },
     "bundle.js": {
       "name": "bundle.js",
       "path": "D:\\Projects\\FullStackProject\\frontend\\dist\\bundle.js",
-      "publicPath": "http://127.0.0.1:8080/bundle.js"
+      "publicPath": "https://fullstack-blog-ars.herokuapp.com/bundle.js"
+    },
+    "bundle.js.map": {
+      "name": "bundle.js.map",
+      "path": "D:\\Projects\\FullStackProject\\frontend\\dist\\bundle.js.map",
+      "publicPath": "https://fullstack-blog-ars.herokuapp.com/bundle.js.map"
     },
     "index.html": {
       "name": "index.html",
       "path": "D:\\Projects\\FullStackProject\\frontend\\dist\\index.html",
-      "publicPath": "http://127.0.0.1:8080/index.html"
+      "publicPath": "https://fullstack-blog-ars.herokuapp.com/index.html"
     },
     "favicon.ico": {
       "name": "favicon.ico",
       "path": "D:\\Projects\\FullStackProject\\frontend\\dist\\favicon.ico",
-      "publicPath": "http://127.0.0.1:8080/favicon.ico"
+      "publicPath": "https://fullstack-blog-ars.herokuapp.com/favicon.ico"
     }
   },
   "chunks": {
     "app": [
-      "bundle.js"
+      "css/app.4ba7e6df.css",
+      "bundle.js",
+      "css/app.4ba7e6df.css.map",
+      "bundle.js.map"
     ]
   },
-  "publicPath": "http://127.0.0.1:8080/"
+  "publicPath": "https://fullstack-blog-ars.herokuapp.com/"
 }
